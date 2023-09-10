@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	align-items:center;
+	
+}
+.box{
+	width: 100px;
+	height: 100px;
+	
+	font-size: 50px;
+	font-weight: bold;
+}
+.three{
+	background-color:green;
+}
+.two{
+	background-color:blue;
+}
+.one{
+	background-color: red;
+}
